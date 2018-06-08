@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
 from __future__ import print_function, unicode_literals
-'''
-This is a multi-line
-comment
-Cool
+'''This is my script for practicing the basics of Python.
+Come back to this script for referrence.
 '''
 my_str = 'Hello World'
 my_str2 = "something else"
