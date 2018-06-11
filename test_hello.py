@@ -7,3 +7,6 @@ print ("-" * 80)
 print ("{:20}{:20}{:20}{:20}".format(octets[0], octets[1], octets[2], octets[3]))
 #print (octets)
 print ("-" * 80)
+
+for i in range(10):
+    print (i)
